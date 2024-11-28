@@ -131,6 +131,10 @@ ul {
     list-style : none;
     }
 
+.custom-list {
+    list-style: disc;
+}
+
 /*Button Style*/
 .btn {
     padding        : 10px 30px;
